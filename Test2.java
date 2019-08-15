@@ -15,3 +15,16 @@ public class Test2 {
 	}
 
 }
+
+
+/*
+ What is the result if the integer aVar is 9?
+ aVar 정수가 9인 경우?  
+ 
+ A)10 Hello World!
+ B)Hello Universe!
+ C)400.0 : 100.0
+ D)Compilation fails.
+
+Answer : A
+ */

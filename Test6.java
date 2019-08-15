@@ -1,0 +1,32 @@
+package ocjpjava;
+
+abstract class Planet{
+	protected void revolve() {             //iine n1
+		
+	}
+	abstract void retate();					//line n2
+}
+
+class Earth extends Planet {		
+	void revolve() {						//line n3
+		
+	}
+
+	protected void return() {				//line n4
+		
+	}
+}
+/*
+  6.Given the code fragment:
+Which three modifications, made independently, enable the code to compile? 
+
+A) Make the method at line n1 public.
+B) Make the method at line n2 public.
+C) Make the method at line n3 public.
+D) Make the method at line n3 protected.
+E) Make the method at line n4 public. 
+
+Answer: C,D,E
+  
+ */
+
